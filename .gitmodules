@@ -1,0 +1,12 @@
+[submodule "Exam-Prep"]
+	path = Exam-Prep
+	url = https://github.com/JordanRheeder/Exam-Prep.git
+[submodule "Push-Swap"]
+	path = Push-Swap
+	url = https://github.com/JordanRheeder/Push_Swap.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/JordanRheeder/get_next_line.git
+[submodule "libft"]
+	path = libft
+	url = https://github.com/JordanRheeder/libft.git
